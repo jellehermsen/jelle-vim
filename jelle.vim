@@ -2,8 +2,12 @@
 " Maintainer: Jelle Hermsen <j@jelle.xyz>
 " Version: 0.1
 " Last Change: 2018-03-06 
-" URL: jelle.xyz
-" License:    The MIT License (MIT)
+" URL: https://github.com/jellehermsen/jelle-vim/
+" License: The MIT License (MIT)
+
+" This was based on the wonderful template made by Gerardo Galíndez which you
+" can find here: 
+" https://github.com/ggalindezb/Vim-Colorscheme-Template/
 
 set background=dark
 
