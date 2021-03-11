@@ -1,7 +1,7 @@
 " Vim color file
 " Maintainer: Jelle Hermsen <j@jelle.xyz>
 " Version: 0.1
-" Last Change: 2018-03-06 
+" Last Change: 2019-08-27
 " URL: https://github.com/jellehermsen/jelle-vim/
 " License: The MIT License (MIT)
 
